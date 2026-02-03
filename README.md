@@ -1,6 +1,6 @@
-# Tic Tac Toe
+# Tic-Tac-Toe
 
-A clean and interactive Tic-Tac-Toe game built with **HTML, CSS, and Vanilla Javascript**.  
+A clean and interactive Tic-Tac-Toe game built with **HTML, CSS, and Vanilla JavaScript**.  
 Designed with clear game logic, smooth UI feedback, and a simple scoreboard for multiple rounds.
 
 ## Features
@@ -21,13 +21,13 @@ Designed with clear game logic, smooth UI feedback, and a simple scoreboard for 
 ## Tech Stack
 - HTML
 - CSS
-- Vanilla Javascript
+- Vanilla JavaScript
 
 ## Live Demo
 👉 **Live Version:** [https://AhmedMarwanDev.github.io/tic-tac-toe-js](https://AhmedMarwanDev.github.io/tic-tac-toe-js)
 
 ## Screenshot
-![Tic Tac Toe Game Screenshot](assets/images/screenshot.png)
+![Tic-Tac-Toe Game Screenshot](assets/images/screenshot.png)
 
 ---
 
