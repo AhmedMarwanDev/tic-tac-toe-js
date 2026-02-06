@@ -8,17 +8,17 @@
 
 :root {
     --bg-main-color: hsl(200, 50%, 10%);
-    --bg-light-color: hsl(from var(--bg-main-color) h s calc(l + 15));
-    --bg-lighter-color: hsl(from var(--bg-main-color) h s calc(l + 20));
-    --bg-lightest-color: hsl(from var(--bg-main-color) h s calc(l + 25));
+    --bg-light-color: hsl(200, 50%, 25%);
+    --bg-lighter-color: hsl(200, 50%, 30%);
+    --bg-lightest-color: hsl(200, 50%, 35%);
 
-    --bg-cell-color: hsl(from var(--bg-main-color) h s calc(l + 15));
-    --bg-cell-color-hover: hsl(from var(--bg-cell-color) h s calc(l + 5));
-    --bg-cell-color-active: hsl(from var(--bg-cell-color) h s calc(l + 10));
+    --bg-cell-color: hsl(200, 50%, 25%);
+    --bg-cell-color-hover: hsl(200, 50%, 30%);
+    --bg-cell-color-active: hsl(200, 50%, 35%);
     
-    --bg-restart-button-color: hsl(from var(--bg-main-color) h s calc(l + 15));
-    --bg-restart-button-hover-color: hsl(from var(--bg-restart-button-color) h s calc(l + 5));
-    --bg-restart-button-active-color: hsl(from var(--bg-restart-button-color) h s calc(l + 10));
+    --bg-restart-button-color: hsl(200, 50%, 25%);
+    --bg-restart-button-hover-color: hsl(200, 50%, 30%);
+    --bg-restart-button-active-color: hsl(200, 50%, 35%);
     
     --bg-x-color: hsl(0, 100%, 40%);
     --bg-o-color: hsl(240, 100%, 40%);
